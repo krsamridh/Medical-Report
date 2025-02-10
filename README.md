@@ -1,4 +1,4 @@
-Here’s a complete `README.md` file for your **Medical Report - AD Lab Project** with cloning and forking steps, along with instructions to run the server.  
+Here's the updated `README.md` with contribution guidelines, including how to create a new branch and submit a **Pull Request (PR)**.  
 
 ---
 
@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### 📥 Clone the Repository  
 To clone the repository, open a terminal and run:  
 ```bash
-git clone https://github.com/YOUR_USERNAME/MEDICAL-REPORT.git
+git clone https://github.com/krsamridh/MEDICAL-REPORT.git
 ```
 Then, navigate into the project directory:  
 ```bash
@@ -81,9 +81,43 @@ To start the server, follow these steps:
 
 ---
 
+## 🤝 How to Contribute  
+
+We welcome contributions! Follow these steps to contribute to this project:  
+
+### 1️⃣ Create a New Branch  
+Before making changes, create a new branch:  
+```bash
+git checkout -b feature-branch
+```
+Replace `feature-branch` with a meaningful name (e.g., `add-login-form`).  
+
+### 2️⃣ Make Your Changes  
+Edit the necessary files and commit your changes:  
+```bash
+git add .
+git commit -m "Added login form functionality"
+```
+
+### 3️⃣ Push Your Changes  
+Push the branch to your GitHub fork:  
+```bash
+git push origin feature-branch
+```
+
+### 4️⃣ Create a Pull Request (PR)  
+1. Go to your forked repository on GitHub.  
+2. Click on the **"Compare & pull request"** button.  
+3. Provide a meaningful **title** and **description** of your changes.  
+4. Click **"Create pull request"**.  
+
+A maintainer will review your PR, and once approved, it will be merged into the main project.  
+
+---
+
 ## 📜 License  
 This project is **open-source** and available under the **MIT License**.  
 
 ---
 
-Feel free to update **"YOUR_GITHUB_USERNAME"** with your actual GitHub username before using it! 🚀
+Now your `README.md` includes detailed **contribution guidelines**! Let me know if you need any more updates. 🚀😊
